@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cours
+Cours/
+StatML_Homework_*.pdf
